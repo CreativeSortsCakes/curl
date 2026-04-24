@@ -32,7 +32,7 @@
 
 #define MAX_EXPAND_CONTENT 10000000
 #define MAX_VAR_LEN        128 /* max length of a name */
-
+#define MAX_TEST_FLAG      1
 /* free everything */
 void varcleanup(void)
 {
